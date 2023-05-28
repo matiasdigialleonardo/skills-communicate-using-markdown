@@ -5,3 +5,7 @@
 ```javascript
 console.log("Meep");
 ```
+
+- [x] Started tutorial
+- [x] Continued tutorial
+- [ ] Finished tutorial
